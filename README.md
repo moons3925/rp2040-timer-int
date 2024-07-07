@@ -1,5 +1,5 @@
 # ラズピコでRust
-ラズピコ で L チカする(デバッグ環境用)
+ラズピコ で タイマー割り込みを使ってみる
 
 ## setting.json
 
@@ -12,4 +12,4 @@
 
 詳しくは以下をご覧になってください。
 
-[ラズピコでRust　環境構築編](https://moons.link/pico/post-1137/)
+[ラズピコでRust　タイマー割り込みを使ってみる(https://moons.link/pico/post-1421/)
