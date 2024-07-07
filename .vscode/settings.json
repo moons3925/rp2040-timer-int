@@ -1,0 +1,10 @@
+{
+    "cortex-debug.openocdPath": "C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/openocd/openocd.exe",
+    "cortex-debug.gdbPath": "C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/gcc-arm-none-eabi/bin/arm-none-eabi-gdb.exe",
+    "rust-analyzer.checkOnSave.allTargets": false,
+    "rust-analyzer.checkOnSave.extraArgs": [
+        "--target",
+        "thumbv7em-none-eabihf"
+    ],
+    "cortex-debug.variableUseNaturalFormat": false
+}
